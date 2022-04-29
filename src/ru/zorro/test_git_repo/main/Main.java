@@ -6,4 +6,9 @@ public class Main {
         System.out.println("--- start ---");
         System.out.println("--- end ---");
     }
+
+    private static void user2Func() {
+        System.out.println("user2 func");
+    }
+
 }
