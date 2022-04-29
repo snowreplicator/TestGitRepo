@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("--- start ---");
+        user1Func();
+        user2Func();
         System.out.println("--- end ---");
     }
 
