@@ -1,3 +1,1 @@
-#!bin.bash
-
-ls -la
+#!bin.bashls -lala -la
