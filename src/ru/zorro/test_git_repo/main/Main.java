@@ -1,6 +1,6 @@
 package ru.zorro.test_git_repo.main;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         System.out.println("--- start ---");
@@ -12,7 +12,6 @@ public class Main {
     private static void user2Func() {
         System.out.println("user2 func");
     }
-
 
     private static void user1Func() {
         System.out.println("user 1 func");
